@@ -63,3 +63,13 @@ Time: 9:26
 Phone Number: +27716431040
 Message: scanner at mpi is down
 --------------------
+Date: 20/6/2024
+Time: 9:58
+Phone Number: +27716431040
+Message: scanner at mpi is down
+--------------------
+Date: 20/6/2024
+Time: 9:59
+Phone Number: +27716431040
+Message: scanner at mpi is down
+--------------------

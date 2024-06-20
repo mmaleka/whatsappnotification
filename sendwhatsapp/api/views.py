@@ -24,14 +24,15 @@ class SendWhatsappAPIView(APIView):
 
 
         # Sending the WhatsApp Message
-        # pywhatkit.sendwhatmsg_instantly(phone_number, msg, 8, 38)
-        pywhatkit.sendwhatmsg(phone_number, "hello", 13, 12, 32)
-        # pyautogui.click(1050, 950)
-        # time.sleep(2)
-        # k.press_and_release('enter')
-
+        pywhatkit.sendwhatmsg_instantly(phone_number, msg, 8, 38)
+        # pywhatkit.sendwhatmsg(phone_number, "hello", 13, 12, 32)
+        pyautogui.click(1050, 950)
+        time.sleep(2)
+        k.press_and_release('enter')
+ 
         # Displaying a Success Message
         print("WhatsApp message sent!")
+        
 
 
 
